@@ -1,0 +1,6 @@
+# personal data and generated charts
+expenses.csv
+spending_by_category.png
+__pycache__/
+*.pyc
+.venv/
